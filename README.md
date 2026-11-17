@@ -4,7 +4,7 @@ Fullstack developer in Prague. I work mostly in C# and .NET, and I build tools t
 
 ## Hubris
 
-<a href="https://github.com/Shadowinger/Hubris"><img src="https://raw.githubusercontent.com/Shadowinger/Hubris/main/docs/hubris-dashboard.png" alt="Hubris desktop app: a tool call waiting for approval, the context cost and the live call log" width="820"></a>
+<a href="https://github.com/Shadowinger/Hubris"><img src="https://raw.githubusercontent.com/Shadowinger/Hubris/main/docs/hubris-dashboard.png" alt="Hubris desktop app: 11 of 368 tools in the model's context, one blocked call, the sign-in state of each server and the live call log" width="820"></a>
 
 [Hubris](https://github.com/Shadowinger/Hubris) is an open-source gateway between an AI agent and its tools. It is one local server in front of every MCP server you use: it keeps tool definitions out of the model's context until they are needed, and it checks every tool call before it runs.
 
