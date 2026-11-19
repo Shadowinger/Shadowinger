@@ -10,7 +10,7 @@ Fullstack developer in Prague. I work mostly in C# and .NET, and I build tools t
 
 - **Less context.** With 368 tools from 7 servers connected, the model carried 2,428 tokens of tool definitions instead of 180,691.
 - **Policy on every call.** Destructive commands stop and wait for approval, and secrets in tool output are masked before the model sees them.
-- **One native binary.** C# on .NET 10 with Native AOT, 9.3 MB, no runtime to install. 239 unit tests and 93 end-to-end checks, CI on macOS, Linux and Windows.
+- **One native binary.** C# on .NET 10 with Native AOT, 9.4 MB, no runtime to install. It comes as a desktop app or as a command line installed with one line. 247 unit tests and 121 end-to-end checks, CI on macOS, Linux and Windows.
 
 [Repository](https://github.com/Shadowinger/Hubris) · [Latest release](https://github.com/Shadowinger/Hubris/releases/latest) · MIT licence
 
